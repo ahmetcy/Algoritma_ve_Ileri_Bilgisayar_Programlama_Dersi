@@ -32,7 +32,7 @@ gcc -Wall -Wextra -std=c11 -o tp07 tp07_Ahmet_Cemil_Yalcindag.c
 ```
 
 ### Running
-
+Run the executable to perform all three sorts on the predefined array `{1, 12, 7, 15, 18, 9, 20, 8, 13}` (mapping to “ALGORITHM”):
 ```sh
 ./tp07
 ```
