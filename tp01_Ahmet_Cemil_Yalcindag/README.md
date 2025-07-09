@@ -1,5 +1,6 @@
 # 2D Geometry Operations in C
 
+
 ## Overview
 
 This project is an exercise in the C programming language that reinforces your understanding of `struct`s and `pointer`s by implementing basic two‐dimensional geometry operations via standalone functions.
@@ -42,3 +43,10 @@ This project is an exercise in the C programming language that reinforces your u
 
 ```sh
 gcc -Wall -Wextra -std=c11 -o geometry main.c
+```
+### Running
+
+```sh
+./geometry
+
+
